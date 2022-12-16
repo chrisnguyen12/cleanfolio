@@ -4,9 +4,9 @@ A clean and simple portfolio template built using React, if want a template buil
 
 ## Preview
 
-[![Imgur](https://imgur.com/a/JxQ95gf)](https://cleanportfolio.herokuapp.com/)
+[![Imgur](https://imgur.com/a/JxQ95gf)](https://github.com/chrisnguyen12/cleanfolio)
 
-[See Live](https://cleanportfolio.herokuapp.com/)
+[See Live](https://github.com/chrisnguyen12/cleanfolio)
 
 ## Instructions
 
