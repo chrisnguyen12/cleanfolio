@@ -12,7 +12,7 @@ const about = {
     resume: 'https://example.com',
     social: {
         linkedin: 'https://linkedin.com',
-        github: 'https://github.com',
+        github: 'https://github.com/chrisnguyen12',
     },
 }
 
@@ -62,7 +62,7 @@ const skills = [
 
 const contact = {
     // email is optional - if left empty Contact section won't show up
-    email: 'johnsmith@mail.com',
+    email: 'nguyenchris@gmail.com',
 }
 
 export { header, about, projects, skills, contact }
