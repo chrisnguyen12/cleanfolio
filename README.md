@@ -4,9 +4,9 @@ A clean and simple portfolio template built using React, if want a template buil
 
 ## Preview
 
-[![Imgur](https://imgur.com/FwDMNEM.gif)](https://rajshekhar26.github.io/cleanfolio)
+[![Imgur](https://imgur.com/a/JxQ95gf)](https://cleanportfolio.herokuapp.com/)
 
-[See Live](https://rajshekhar26.github.io/cleanfolio)
+[See Live](https://cleanportfolio.herokuapp.com/)
 
 ## Instructions
 
@@ -37,7 +37,13 @@ Install and run -
 yarn
 yarn start
 ```
+Install and run -
 
+```npm
+npm start
+```
+### contributor
+[rajshekhar26](https://rajshekhar26.github.io)
 ### How to use
 
 - Open `public/index.html` and replace -
@@ -58,9 +64,8 @@ with `"homepage": "https://yourusername.github.io"`.
 
 - Build and deploy -
 
-```shell
-yarn build
-yarn deploy
+```Npm
+npm run build
 ```
 
 ## License
