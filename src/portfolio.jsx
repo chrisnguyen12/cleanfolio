@@ -36,7 +36,7 @@ const projects = [
     {
         name: 'My WorkSpace',
         description: 'A Social Media app that shows what project someone is working on and allows messages to be shared between the projects themselves',
-        stack: ['SASS', 'TypeScript', 'React'],
+        stack: ['JavaScript', 'HTML', 'React'],
         sourceCode: 'https://github.com/Krimeas/myworkspace',
         livePreview: 'https://myworkspaceutap3.herokuapp.com/',
     },
